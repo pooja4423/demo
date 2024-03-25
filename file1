@@ -1,3 +1,6 @@
 git branch
 git add .
 hello
+git branch -display branchname
+git checkout b1 -create b1 branch
+git checkout -b b1 -create b1 and switch to b1 branch
