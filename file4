@@ -1,0 +1,3 @@
+git tag tag_name
+git tag
+git tag -d tag_name
